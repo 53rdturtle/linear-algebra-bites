@@ -12,6 +12,9 @@ npm run dev
 
 Then open the URL it prints (usually http://localhost:5173). Answers and puzzles are saved in the browser.
 
+Online (no Ask): https://53rdturtle.github.io/linear-algebra-bites/ — every push to `main` rebuilds it
+(`.github/workflows/pages.yml`, built with `VITE_NO_ASK=1`).
+
 ## Ask
 
 On a book page, press **✦ Ask** (bottom right) to ask a question. Select text on the page, or press
